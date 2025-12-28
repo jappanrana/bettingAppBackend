@@ -6,6 +6,7 @@ toolchain go1.24.10
 
 require (
 	firebase.google.com/go/v4 v4.18.0
+	github.com/gorilla/mux v1.8.1
 	github.com/joho/godotenv v1.5.1
 	go.mongodb.org/mongo-driver v1.17.6
 	google.golang.org/api v0.256.0
